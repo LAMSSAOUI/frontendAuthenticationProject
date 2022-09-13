@@ -7,7 +7,7 @@ const Hero = () => {
     <img src="https://placeimg.com/260/400/arch" class="max-w-sm rounded-lg shadow-2xl" />
     <div>
       <h1 class="text-5xl font-bold">Box Office News!</h1>
-      <p class="py-6 max-w-xl mr-44">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
+      <p class="py-6 max-w-xl mr-44">Provident cupiditate lorem voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
       <button class="btn btn-primary bg-black">Get Started</button>
     </div>
   </div>
